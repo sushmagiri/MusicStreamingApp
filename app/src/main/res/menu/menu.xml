@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/logo"
+        android:title=""
+
+        />
+    <item android:id="@+id/logo1"
+        android:title=""
+
+        />
+
+    <item android:id="@+id/Home1"
+        android:title="Home"
+
+        />
+
+    <item android:id="@+id/AboutUs"
+        android:title="About Us"
+
+        ></item>
+    <item android:id="@+id/messages"
+        android:title="Messages"
+
+        ></item>
+
+    <item android:id="@+id/Services"
+        android:title="Services"
+
+        />
+
+
+    <item android:id="@+id/Proceduer"
+        android:title="Procedure"
+
+        />
+    <item android:id="@+id/RecentJobs"
+        android:title="Recent Jobs"
+
+        />
+    <item android:id="@+id/Gallery"
+        android:title="Gallery"
+
+        />
+    <item android:id="@+id/ContactUs"
+        android:title="Contact Us"
+
+        />
+
+
+</menu>

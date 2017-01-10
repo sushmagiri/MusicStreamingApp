@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f96332</color>
+    <color name="colorPrimaryDark">#f96332</color>
+    <color name="colorAccent">#FF4081</color>
+   <color name="visual_color">#00d0ff</color>
+<color name="visual_bg">#00ff90</color>
+
+<color name="v_color1">#606060</color>
+<color name="v_color2">#606060</color>
+<color name="v_color3">#606060</color>
+<color name="v_color4">#606060</color>
+    <color name="v_color_bg">#fff</color>
+
+
+<array name="v_colors">
+<item>@color/v_color4</item>
+<item>@color/v_color3</item>
+<item>@color/v_color2</item>
+<item>@color/v_color1</item>
+</array>
+    </resources>
+
+
